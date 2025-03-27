@@ -8,6 +8,7 @@
 
 public class HolaMundo {
 	public static void main(String[] args) {
-		system.out.println("¡Hola Mundo!");	
+		system.out.println("¡Hola Mundo!");
+		system.out.println("Aqui estamos haciendo pruebas con Git.");	
 	}
 }
