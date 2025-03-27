@@ -1,5 +1,5 @@
 # "hola-mundo" en Java
-
+//hola
 ## Descripción
 
 El programa "Hola Mundo" simplemente muestra "Hola Mundo" por pantalla. Es muy sencillo y suele ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programación. 
